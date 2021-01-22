@@ -1,0 +1,112 @@
+body {
+    background: #CC8157;
+    font-family:"Rowdies";
+    color:#FFFFFF;
+}
+
+* {
+    margin:0;
+    padding:0;
+    }
+
+/* accueil */
+.accueil {
+height: 662px;
+background: url(photoGroupe.png);
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 130px;
+    color: #FFFFFF;
+    margin: 30px;
+}
+
+ol {
+    height: 136px;
+    font-weight: normal;
+    font-size: 20px;
+    color: #FFFFFF;
+    padding: 100px 50px;
+
+}
+
+/* synopsis */
+.synop {
+    margin: 0px 0px 0px 50px; 
+}
+
+.résumé {
+    margin: 30px 40px 30px 40px;
+    text-align: justify;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 62px;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+
+/* personnages */
+.perso {
+    margin: 50px;
+}
+
+
+td {
+    border:1px solid white;
+    padding: 5px; 
+}
+
+/* saisons */
+.SAISONS {
+    background: url(canapé.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+
+h3 {
+    margin: 50px;
+}
+
+
+iframe {
+    padding:15px;
+}
+
+form {
+    margin:50px;
+}
+
+.submit {
+    background: hsl(22, 83%, 41%);
+}
+
+.p2 {
+    text-align: center;
+}
+
+.p3 {
+    text-align: center;
+}
+
+
+a {
+    color: #FFFFFF;
+}
+
+.envoyer {
+width: 142px;
+height: 33.29px;
+background: #C05112;
+border-radius: 20px;
+font-weight: bold;
+margin-top: 15px;
+}
